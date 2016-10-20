@@ -49,7 +49,7 @@ NOTE: If it is a bitnami installation, then `PrestaShop_App_Location = ~/stack`.
 ##### Under settings.json, modify the following
 * `SUGAR_API_URL` - SuiteCRM REST URL, Example: `SuiteCRM_Url`/service/v4_1/rest.php
 * `SUGAR_USERNAME` - SuiteCRM Admin Username
-* `SUGAR_PASSWORD` - SuiteCRM Admin Username
+* `SUGAR_PASSWORD` - SuiteCRM Admin Password
 
 ### 3. Wordpress
 ##### Under settings.json, modify the below two properties
@@ -61,7 +61,7 @@ Example: http://`wordpress-hostname`/wp-content/uploads/2016/10/No-image-found.j
 ##### Navigate the Wordpress Admin UI
 - Under `Plugins section`, add the plugin - `WordPress REST API` (Version 2) [WP REST API | Version 2.0-beta13.1 | By WP REST API Team]
 - Under `Pages section`, add pages for corresponding PrestaShop Categories
-- Under `Media section`, upload the required Images for corresponding PrestaShop Categories and Products
+- Under `Media section`, upload the required Images for corresponding PrestaShop Products
 
 ### 4. Mapping Prestashop (Categories and Products) with Wordpress (pages and media)
 ##### Access/Enable the `Admin Tab` in Navigation/Menu Bar
