@@ -1,0 +1,10 @@
+{
+  "WP_API_URL" : "http://<WP_IP>/wp-json/wp/v2",
+  "WP_NO_IMAGE_LINK" : "http://<WP_IP>/wp-content/uploads/2016/10/No-image-found.jpg",
+  "SUGAR_API_URL" : "http://<SUGARCRM_IP>/service/v4_1/rest.php",
+  "SUGAR_USERNAME" : "sugarcrm_username",
+  "SUGAR_PASSWORD" : "sugarcrm_password",
+  "PRESTA_API_URL" : "http://<PRESTASHOP_IP>/api/",
+  "PRESTA_KEY" : "Basic <PRESTAHOP_BASIC_KEY>",
+  "PRESTA_PDF_LINK" : "http://<PRESTASHOP_IP>/index.php?controller=pdf-invoice&id_order="
+}
