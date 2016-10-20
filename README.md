@@ -2,6 +2,10 @@
 
 A simple stack to kick-start integrating Apollo(GraphQL), Meteor and React with eCommerce applications like PrestaShop/SuiteCRM/Wordpress.
 
+## Live Application
+[Live URL](http://104.199.118.203/)
+[Demo](https://www.youtube.com/watch?v=KCwB7qIUrbc)
+
 ## Basic Requirements
 - PrestaShop/SuiteCRM/Wordpress vanilla installations can be done on separate/same server as per your requirement.
 - Similarly, this project can be deployed as a Meteor application.
