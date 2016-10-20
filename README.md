@@ -63,7 +63,7 @@ Example: http://`wordpress-hostname`/wp-content/uploads/2016/10/No-image-found.j
 - Under `Pages section`, add pages for corresponding PrestaShop Categories
 - Under `Media section`, upload the required Images for corresponding PrestaShop Categories and Products
 
-### 3. Mapping Prestashop (Categories and Products) with Wordpress (pages and media)
+### 4. Mapping Prestashop (Categories and Products) with Wordpress (pages and media)
 ##### Access/Enable the `Admin Tab` in Navigation/Menu Bar
 ###### Regiter as `admin` user
 In the Navigation/Menu Bar, `click Sign-In`  
