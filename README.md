@@ -4,6 +4,8 @@ A simple stack to kick-start integrating Apollo(GraphQL), Meteor and React with 
 
 ## Live Application
 [Live URL](http://104.199.118.203/)
+
+
 [Demo](https://www.youtube.com/watch?v=KCwB7qIUrbc)
 
 ## Basic Requirements
